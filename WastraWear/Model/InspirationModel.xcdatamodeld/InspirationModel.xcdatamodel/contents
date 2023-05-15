@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="21754" systemVersion="22D68" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="BookmarkPhotoEntity" representedClassName="BookmarkPhotoEntity" syncable="YES" codeGenerationType="class">
+        <attribute name="descFoto" optional="YES" attributeType="String"/>
+        <attribute name="id" optional="YES" attributeType="UUID" usesScalarValueType="NO"/>
+        <attribute name="imgSrc" optional="YES" attributeType="String"/>
+        <attribute name="judulFoto" optional="YES" attributeType="String"/>
+    </entity>
+</model>

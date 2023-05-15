@@ -11,7 +11,8 @@ import SwiftUI
 struct WastraWearApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+//            ContentView()
+            OnboardingPage()
         }
     }
 }
